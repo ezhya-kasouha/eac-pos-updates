@@ -1,0 +1,8 @@
+{
+    "version":  "2.1",
+    "build":  7,
+    "signature":  "363Zp14ZCcmzyZJ7TnEr2uY9ThKi6O/bqFS2WVcGy/PUUB2a62EEUMdzlkDG/SgInPWnh94p1JN1PElOMmN1Kf+WC49Au4PiZ7Ko8Oo+LlYxFZQA5/d2N9qzTMpaDx2EqQ+R4qDRiFe4CgPcJHBpZki9o2kAwCnZTO89+tdGuZtee7zcYGP+PnucvV39Z69E299F++fKHSUz4ORLfe+QYPcGAFiwv6Z7caHCcoTcrkbvPYHorfHBOJ8VaLZWILNidoeexkrEWooXr708JOGABnD9g5B+nYhuTsygoKuiq5dsynXhbDUmHgwjDaM1n8BrbcHQ/q7fSOUuOMOH9uZJEQ==",
+    "sha256":  "e35c751facadc937c0faf1a311ce97025df7ce8ab817591fc011916883412a91",
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-2.1.zip",
+    "notes":  "Grouped customer debts, owner chat retention and one-button remote update"
+}
