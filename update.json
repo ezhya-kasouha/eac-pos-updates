@@ -1,8 +1,8 @@
 {
-    "version":  "2.1",
-    "build":  7,
-    "signature":  "WSCKE9Gb1WQGsf/3+jewyi1avYOz0fqzDb44ZYrQx8w3gS24zl2ozneRaU63JADojlWQ3wRrbQPx9oB+r4PUBrg6iJp2uY00AGfmZEphcbxHa4dO3uACg6hU89lXoZyDCDpVd/knwrj3PJ5N2kl8y2jf/SBVVKqOTXIPspPD1Qn9OW5PYZqwDRjQ2sYJxZ9TrtcNJiF3NTcIRTutsMsL5445UMzH8AR0X5Vgk4FDt9x0MVOyPaPUmpi0TwbEnxpBtDq8r3OzoP7zIBugI8TL/KuCea/HuwoZig4gngrgGxlMgEweVNSmMi6bGqLZ4Z/0ig3cVFdwLF+vAqJYdlwJnA==",
-    "sha256":  "ab084e27b0ecf730dea0b0d2d0352e86cce6829b941d102dbb7d9f95bca73d65",
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-2.1.zip",
-    "notes":  "Grouped customer debts, owner chat retention and one-button remote update"
+    "version":  "2.2",
+    "build":  8,
+    "signature":  "BV0pnYUtqUGoC1ulahdT9xXS8jlEuUvgOavaWyh2jT/aywDIx1lO7OB19VS6SqXPKf7r+n/MiOwawUkdt8uT8/tCUPAhb9dTxxV2iNyEJwMVAdgefsUoWPIkTX02kfd2LLDpj5tbnvMDkbvSxh5EL3XAlGp0hvftIy/7rzNxZf0U4s5R9T3omGrMrFkaJDj67UyzvVBIQbwRgcFsXM1lbkOwgemuysfIiWrMK49uXgEOfZsq0IU9HmYWauvZm6cDCm7lpQFzEdEfeyValujV3Oad8g2Y6VKeE9+kYROgyVVRvKzpTHr06wds4bjlHl5JoAOfMaKW/8MflL/8h1Lrrg==",
+    "sha256":  "091e592532a45824e7c816e4ac693ab87f0691e0c0d00baa378d8142b24583a9",
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-2.2.zip",
+    "notes":  "Store owner password for data actions, quick USD/Lira transfer, chat starts collapsed"
 }
