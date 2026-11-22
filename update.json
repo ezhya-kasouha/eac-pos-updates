@@ -1,8 +1,8 @@
 {
-    "version":  "2.2",
-    "build":  8,
-    "signature":  "BV0pnYUtqUGoC1ulahdT9xXS8jlEuUvgOavaWyh2jT/aywDIx1lO7OB19VS6SqXPKf7r+n/MiOwawUkdt8uT8/tCUPAhb9dTxxV2iNyEJwMVAdgefsUoWPIkTX02kfd2LLDpj5tbnvMDkbvSxh5EL3XAlGp0hvftIy/7rzNxZf0U4s5R9T3omGrMrFkaJDj67UyzvVBIQbwRgcFsXM1lbkOwgemuysfIiWrMK49uXgEOfZsq0IU9HmYWauvZm6cDCm7lpQFzEdEfeyValujV3Oad8g2Y6VKeE9+kYROgyVVRvKzpTHr06wds4bjlHl5JoAOfMaKW/8MflL/8h1Lrrg==",
-    "sha256":  "091e592532a45824e7c816e4ac693ab87f0691e0c0d00baa378d8142b24583a9",
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-2.2.zip",
-    "notes":  "Store owner password for data actions, quick USD/Lira transfer, chat starts collapsed"
+    "version":  "2.3",
+    "build":  9,
+    "signature":  "8QTBJsu3uKpM+hNITvE7uIxYSknTIZZt/N/YYhO771ybx8RKR+pacb81OBCRjRb2YQILbj80D+nv/Yl1+yhlMw7zZNlJAIwJTx9c3L2tMdLNz8qHLr5xN0toJQlQFYxB3C3775W2N7qGBcENMJwVCDepEoIKq2MTXPjdtghbKNVHk9i/3rfkcxsxsA8exMB8VIw41rSiLDxv+1aS70JLJxfr1RK+R7K5jzjaxpViSFJwFqz47veWsE3mBowH7j2vgRoo41cpDLqrkrJKP5TPE5Lbxgi9KIB94vnOEYzx2IaXMM7Fb8mj33vw5UCcNP8SLVXNY4W6gTwCukvIUO6KUg==",
+    "sha256":  "d08f0b063b8e432d4c0530b4ae8839ecd77b7e6e35df229e08a33afac115e62e",
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-2.3.zip",
+    "notes":  "Removes old version HTML files automatically after update"
 }
