@@ -1,7 +1,7 @@
 {
     "version":  "2.2",
-    "build":  15,
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-zxing-fixed.apk",
-    "sha256":  "bc1088e335778e238866e9c182d6788db98b575598bef90d1fe43b1b206c79d3",
-    "notes":  "FIXED: ZXing classes now packaged into classes.dex (camera crash root cause); Camera2 scanner; POST body fix for Bad Request; in-app crash report"
+    "build":  16,
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-preview-fixed.apk",
+    "sha256":  "b157b8fd55100b2e56b57851abebbbb35e93749474227aa24920f7a638234def",
+    "notes":  "FIXED camera preview rotation and squashing (Google Camera2 transform pattern); ZXing bundled; POST body fix for Bad Request; in-app crash report"
 }
