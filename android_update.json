@@ -1,7 +1,7 @@
 {
     "version":  "2.2",
-    "build":  16,
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-preview-fixed.apk",
-    "sha256":  "b157b8fd55100b2e56b57851abebbbb35e93749474227aa24920f7a638234def",
-    "notes":  "FIXED camera preview rotation and squashing (Google Camera2 transform pattern); ZXing bundled; POST body fix for Bad Request; in-app crash report"
+    "build":  17,
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-fast-scan.apk",
+    "sha256":  "5e3db0123b8eb6c2fff62c85c669d1d47f6d666c232ab764946d501cfb0cb225",
+    "notes":  "FAST SCAN: single-pass quick decode plus staggered TRY_HARDER fallback; 120ms frame cadence; preview transform fixed; ZXing bundled; POST body fix; in-app crash report"
 }
