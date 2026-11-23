@@ -1,7 +1,7 @@
 {
     "version":  "2.2",
-    "build":  11,
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2.apk",
-    "sha256":  "eefefebe1051de4b29c84030fea8f6f3f575535a4f3dedc820b5dc1209270141",
-    "notes":  "Camera crash fix: safer preview, focus and gallery decode; PC v2.2 features"
+    "build":  12,
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-update-fix.apk",
+    "sha256":  "ef3696fc80485f55fa2c3d9529a874c11197f6f3f06800fc1731b3bf02b16dc7",
+    "notes":  "Update check fix with clear errors and manual download link; camera crash fix; PC v2.2 features"
 }
