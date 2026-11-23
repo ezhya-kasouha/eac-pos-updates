@@ -1,0 +1,7 @@
+{
+    "version":  "2.2",
+    "build":  10,
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2.apk",
+    "sha256":  "80adc3f89457c2eed7a96d5852a53e7e22661249f3dbea1be8d5dcba9c2a7115",
+    "notes":  "Camera barcode scanning improvements and PC v2.2 features"
+}
