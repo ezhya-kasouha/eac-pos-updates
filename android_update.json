@@ -1,7 +1,7 @@
 {
     "version":  "2.2",
-    "build":  20,
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-link-fix.apk",
-    "sha256":  "753f94c07b3196602072adbe0d6b62684ddfb7bd805dda4730a64f8a9c55feb6",
-    "notes":  "LINK FIX: external https links (owner bot chat and manual update download) now open in the browser/Telegram; contact button on login screen; no token in APK"
+    "build":  21,
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-pc-chat.apk",
+    "sha256":  "f4373edb34e93ca8a21c227e28c27d9fd6c901150f5752b80503d3f469de7d7c",
+    "notes":  "PC CHAT: in-app owner chat with sent messages and owner replies, same as PC v2.3; appears on login screen; signed codes apply automatically; fast scanner retained"
 }
