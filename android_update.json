@@ -1,7 +1,7 @@
 {
-    "version":  "2.2",
-    "build":  21,
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-pc-chat.apk",
-    "sha256":  "f4373edb34e93ca8a21c227e28c27d9fd6c901150f5752b80503d3f469de7d7c",
-    "notes":  "PC CHAT: in-app owner chat with sent messages and owner replies, same as PC v2.3; appears on login screen; signed codes apply automatically; fast scanner retained"
+    "version":  "2.5",
+    "build":  22,
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.5.apk",
+    "sha256":  "7db64f9a8f3c11e1ddfcfb34f462059287430c97d19b6f55cb5d360dbdb20c9a",
+    "notes":  "Purchase new-product quantity fix and withdrawn-material expenses in economic feasibility; PC-style owner chat; fast scanner retained"
 }
