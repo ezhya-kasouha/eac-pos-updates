@@ -1,7 +1,7 @@
 {
     "version":  "2.2",
-    "build":  18,
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-owner-chat.apk",
-    "sha256":  "440743fc916ac3e66124b77d18313f4597a2be9325d9a65fd50fd48fabf976a2",
-    "notes":  "OWNER CHAT: contact owner through the public bot link with device code; no token in APK; fast scanner and preview fix retained"
+    "build":  19,
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-Android-v2.2-login-contact.apk",
+    "sha256":  "7116fde57739e8c03cd8d7149b5c52f7729d72061038a410cf4a7bffa1399a3f",
+    "notes":  "CONTACT ON LOGIN: owner bot button now appears on the sign-in screen with device code; no token in APK; fast scanner retained"
 }
