@@ -1,8 +1,8 @@
 {
-    "version":  "2.5",
-    "build":  10,
-    "signature":  "8RUe/TeRnPd/6MqPIeV9Ivn20Ny7v5AiYITpZFDTbEWEeS8mOmv5qJMLNFZRHCd1NBiFz66jCrVt/Y0tT7Qzeqp+jpCrjxzFmdUh8AjQFyMJh9SztPsWKpud+IIh58yi8Tqm8/ye4RSr9hEg7bRB5NtoLzka3rKp8Cg8XiOeK+5giLyt7fGTxY88dG6OlV9acC6QIKnYGGWrkxUox+TJmn7ceD9cLIb/rGLQInkQscDATrI07VRLISGbA7cZPH9+4rorOwAZXzg6mNVhttKTyGQAm7GWIHWaB3pqNCWJmjpLeqTzDTApqyWp1fBf10ZHiPv1zrpVqaaEjUgrCyEaEQ==",
-    "sha256":  "302f5579ccd137d141744ad05d126b5cef3a19b43738758939e4cf25353c142f",
-    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-2.5.zip",
-    "notes":  "Purchase new-product quantity fix and withdrawn-material expenses in economic feasibility"
+    "version":  "2.6",
+    "build":  11,
+    "signature":  "ayjh5DzIGNZSj2oiQuVRhQT5++3O7BCvTn1QHPdKIQLNc4qDuYk/BTrtXMljrNde0pjH9YbLn271EMhPg2JQl3B9Mku1pO2rZHDNEe0IUY4BsiI/CjZvVLGsErsN2NcQBS6qGfSpcApYW3KKY/hDd/k82gWa8ATL61X1t3iLFYWxByajNtsgH2LwI9rBglGrv2yiD1MqBcdBc2laHcj5xJ0r6BFgz6yz03zO7QtG69H3bC3I9jxNufbfqRhx9oqULeHjQxooETfsAah4zv/s/OWxAg9Yy3Yqxume9VfNrC5EiVCj5ariDjTN+kdIK96EwcZzIYOgVwyhV0uJtyUNVA==",
+    "sha256":  "b7ce0bbc3b036bf04585570c980f0fabdbc33021d0c105b1a6d22169e6ada92f",
+    "url":  "https://raw.githubusercontent.com/ezhya-kasouha/eac-pos-updates/main/EAC-POS-2.6.zip",
+    "notes":  "Owner-only Telegram bot commands; quick fund transfer labels and full-balance button"
 }
